@@ -1,2 +1,2 @@
 # davinbirdi.github.io
-[Personal Web Page](davinbirdi.ca)
+[Personal Web Page](https://davinbirdi.ca/)
